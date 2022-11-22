@@ -1,0 +1,17 @@
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.csproj.AssemblyReference.cache
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.AssemblyInfoInputs.cache
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.AssemblyInfo.cs
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.csproj.CoreCompileInputs.cache
+C:\Users\egorb\source\repos\lib2\lib2\bin\Debug\netcoreapp3.1\lib2.exe
+C:\Users\egorb\source\repos\lib2\lib2\bin\Debug\netcoreapp3.1\lib2.deps.json
+C:\Users\egorb\source\repos\lib2\lib2\bin\Debug\netcoreapp3.1\lib2.runtimeconfig.json
+C:\Users\egorb\source\repos\lib2\lib2\bin\Debug\netcoreapp3.1\lib2.runtimeconfig.dev.json
+C:\Users\egorb\source\repos\lib2\lib2\bin\Debug\netcoreapp3.1\lib2.dll
+C:\Users\egorb\source\repos\lib2\lib2\bin\Debug\netcoreapp3.1\lib2.pdb
+C:\Users\egorb\source\repos\lib2\lib2\bin\Debug\netcoreapp3.1\NewLib.dll
+C:\Users\egorb\source\repos\lib2\lib2\bin\Debug\netcoreapp3.1\NewLib.pdb
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.csproj.CopyComplete
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.dll
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.pdb
+C:\Users\egorb\source\repos\lib2\lib2\obj\Debug\netcoreapp3.1\lib2.genruntimeconfig.cache
